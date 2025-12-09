@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2020", /* Versão do JavaScript de saída */
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "rootDir": "./src", /* Diretório raiz dos arquivos TypeScript */
+        "outDir": "./dist", /* Diretório de saída dos arquivos JavaScript compilados */
+        "esModuleInterop": true, /* Permite importação padrão de módulos CommonJS */
+        "forceConsistentCasingInFileNames": true,
+        "strict": true, /* Habilita todas as verificações rigorosas de tipo */
+        "skipLibCheck": true /* Pula a verificação de arquivos de declaração */
+    }
+}
