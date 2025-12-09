@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "todo-app",
-    "slug": "todo-app",
+    "name": "gamelog-app",
+    "slug": "gamelog-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "todoapp",
+    "scheme": "gamelogapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
